@@ -1,19 +1,16 @@
-# gravatar
+# Enhanced Gravatar-Based User Profile Card
 
-A new Flutter project created with FlutLab - https://flutlab.io
+## Description
+A Android application that collects user profile details, retrieves Gravatar data, and displays it in a dynamic card-style UI.
 
-## Getting Started
+## Features
+- Gravatar integration for profile image and details.
+- Dynamic profile card with fallback for missing Gravatar data.
+- Simple and modern UI.
 
-A few resources to get you started if this is your first Flutter project:
+## File Structure
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+### **Run Instructions**
+1. Find the apk version in "https://drive.google.com/file/d/11XJEt5jJjNa0DIJYnaAjbGkLUO7NvMRU/view?usp=sharing".
+2. Install and Run the apk.
